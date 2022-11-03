@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FaceArticle/3D Face Recognition Ajmal Mian and Nick Pears(ENG_RU).md",
+                "file": "vulkan tutorial/Drawing a triangle/setup/Базовый код.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39910f0c2ec081ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vulkan tutorial/Drawing a triangle/setup/Пример.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dde22f2101ed96f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vulkan tutorial/Drawing a triangle/setup/Слои проверки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "689f9086ad93f7db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vulkan tutorial/Drawing a triangle/setup/Физические устройства и семейства очередей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2736a096cb74a848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vulkan tutorial/Drawing a triangle/setup/Базовый код.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -38,7 +87,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FaceArticle/3D Face Recognition Ajmal Mian and Nick Pears(ENG_RU).md",
+                "file": "vulkan tutorial/Drawing a triangle/setup/Базовый код.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FaceArticle/3D Face Recognition Ajmal Mian and Nick Pears(ENG_RU).md",
+                "file": "vulkan tutorial/Drawing a triangle/setup/Базовый код.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FaceArticle/3D Face Recognition Ajmal Mian and Nick Pears(ENG_RU).md"
+                "file": "vulkan tutorial/Drawing a triangle/setup/Базовый код.md"
               }
             }
           }
@@ -136,6 +185,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "942abaf2e46f929a",
-  "lastOpenFiles": []
+  "active": "2736a096cb74a848",
+  "lastOpenFiles": [
+    "vulkan tutorial/Drawing a triangle/setup/Логическое устройство и очереди.md",
+    "vulkan tutorial/Drawing a triangle/setup/Физические устройства и семейства очередей.md",
+    "vulkan tutorial/Drawing a triangle/setup/Слои проверки.md",
+    "vulkan tutorial/Drawing a triangle/setup/Пример.md",
+    "vulkan tutorial/Drawing a triangle/setup/Базовый код.md",
+    "vulkan tutorial/Drawing a triangle/Без названия.md",
+    "vulkan tutorial/Без названия.md",
+    "FaceArticle/3D Face Recognition Ajmal Mian and Nick Pears(ENG_RU).md"
+  ]
 }
