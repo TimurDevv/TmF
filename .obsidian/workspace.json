@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vulkan tutorial/Drawing a triangle/setup/Базовый код.md",
+                "file": "FaceArticle/3D Face Recognition Ajmal Mian and Nick Pears(ENG_RU).md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vulkan tutorial/Drawing a triangle/setup/Базовый код.md",
+                "file": "FaceArticle/3D Face Recognition Ajmal Mian and Nick Pears(ENG_RU).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vulkan tutorial/Drawing a triangle/setup/Базовый код.md",
+                "file": "FaceArticle/3D Face Recognition Ajmal Mian and Nick Pears(ENG_RU).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vulkan tutorial/Drawing a triangle/setup/Базовый код.md"
+                "file": "FaceArticle/3D Face Recognition Ajmal Mian and Nick Pears(ENG_RU).md"
               }
             }
           }
@@ -187,11 +187,11 @@
   },
   "active": "2736a096cb74a848",
   "lastOpenFiles": [
+    "vulkan tutorial/Drawing a triangle/setup/Базовый код.md",
     "vulkan tutorial/Drawing a triangle/setup/Логическое устройство и очереди.md",
     "vulkan tutorial/Drawing a triangle/setup/Физические устройства и семейства очередей.md",
     "vulkan tutorial/Drawing a triangle/setup/Слои проверки.md",
     "vulkan tutorial/Drawing a triangle/setup/Пример.md",
-    "vulkan tutorial/Drawing a triangle/setup/Базовый код.md",
     "vulkan tutorial/Drawing a triangle/Без названия.md",
     "vulkan tutorial/Без названия.md",
     "FaceArticle/3D Face Recognition Ajmal Mian and Nick Pears(ENG_RU).md"
